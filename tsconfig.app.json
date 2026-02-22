@@ -12,7 +12,8 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "moduleDetection": "force"
+    "moduleDetection": "force",
+    "skipLibCheck": true
   },
   "include": ["src"]
 }

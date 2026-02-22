@@ -6,7 +6,8 @@
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "strict": true,
-    "noEmit": true
+    "noEmit": true,
+    "skipLibCheck": true
   },
   "include": ["vite.config.ts"]
 }
